@@ -1,0 +1,169 @@
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .jost {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+  }
+
+.inline-block {
+
+    display: inline-block;
+    
+}
+
+ .logo {
+    width: 60%;
+    padding: 1%;
+    height: 112px;
+    
+
+}
+
+
+.navigation {
+    width: 100%;
+ 
+    background-color: #0A2240;
+
+}
+
+
+    
+
+
+.heroBar {
+    background-color: #E07500;
+    width: 120%;
+   
+    display: flex;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+    
+}
+
+
+h1 {
+    color: white;
+    font-family: 'jost';
+    font-size: 120px;
+    margin-left: 200px;
+    margin-top: 1px;
+    
+    
+}
+
+h2 {
+    color: white;
+    font-family: 'open sans';
+    font-size: 45px;
+    
+    margin-left: 200px;
+    line-height: 1px;
+   
+}
+.heroWords {
+    
+    
+   
+    
+}
+#myPic {
+    display: flex;
+    align-self: flex-end;
+    
+   
+ 
+   
+
+}
+.getConnected {
+    
+}
+li {
+    color: white;
+    font-family: 'open sans';
+    font-style: bold;
+    font-size: 23px;
+    margin: 25px;
+    font-weight: 600;
+    
+}
+.heroImg {
+   width: 781px;
+}
+
+.content {
+    width: 1351px;
+    margin-top: 163px;
+}
+
+p {
+    color: #777777;
+    font-family: 'open sans';
+    font-weight: 700;
+    margin-left: 200px;
+    font-size: 25.25px;
+    
+    
+}
+
+button {
+    background-color: #E07500;
+    font-family: 'jost';
+    font-weight: 700;
+    font-size: 24px;
+    border-radius: 8px;
+    position: absolute;
+    left: 50%;
+    width: 228px;
+    height: 43px;
+    color: white;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 80px;
+
+}
+
+.footer {
+    background-color: #0A2240;
+    margin-top: 200px;
+    width: 100%;
+}
+
+h3 {
+    color: white;
+    font-family: 'open sans';
+    font-size: 23px;
+}
+
+h4 {
+    color: white;
+    font-weight: 700;
+    font-family: 'open sans';
+    margin-left: 800px;
+    margin-bottom: 2px;
+   
+}
+
+.footerButtons {
+    display: inline-block;
+    
+
+}
+.getConnected {
+    margin-left: 1000px;
+}
+#footerSocial {
+    margin-left: 85px;
+}
+#myLogoBottom{
+    margin-left: 30px;
+}
