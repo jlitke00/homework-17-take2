@@ -1,18 +1,5 @@
-.open-sans {
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300px;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-  }
 
-  .jost {
-    font-family: "Jost", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300px;
-    font-style: normal;
-  }
+  
 
 .inline-block {
 
@@ -70,12 +57,7 @@ h2 {
     line-height: 1px;
    
 }
-.heroWords {
-    
-    
-   
-    
-}
+
 #myPic {
     display: flex;
     align-self: flex-end;
@@ -85,9 +67,7 @@ h2 {
    
 
 }
-.getConnected {
-    
-}
+
 li {
     color: white;
     font-family: 'open sans';
